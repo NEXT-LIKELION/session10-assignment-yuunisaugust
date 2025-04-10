@@ -1,0 +1,31 @@
+/* App.css */
+
+
+
+.container {
+  height: 100vh;
+  display: flex;
+  justify-content: center; 
+  align-items: center;     
+  background-color: #f0f2f5; 
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f2f5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+
+body {
+  font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, system-ui, Roboto, 'Helvetica Neue', 'Segoe UI', 'Apple SD Gothic Neo', sans-serif;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background-color: #f0f2f5;
+}
+
+/* App.css의 .container 스타일을 없애고, body 자체를 Flexbox 중앙 정렬로 설정하는 방식 */
